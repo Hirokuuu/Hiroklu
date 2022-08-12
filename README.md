@@ -1,6 +1,8 @@
 # Hiroku
 
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirokuuuu&hide=TeX&layout=compact&theme=react)
+
