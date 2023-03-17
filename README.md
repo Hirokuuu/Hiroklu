@@ -6,7 +6,7 @@
 ![HTML](https://github.com/icons-pack/html5-simple-icons)
 
 
-![Total Visits:](https://visitor-badge.glitch.me/page_id=hirokuuu.hirokuuu)
+![Total Visits:](https://visitor-badge.glitch.me/badge?page_id=hirokuuu.hirokuuu)
 
 
 
