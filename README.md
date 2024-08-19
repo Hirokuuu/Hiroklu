@@ -9,8 +9,11 @@ I like to design
 Learning / Skill: 
 
 = HTML
+
 = TAILWIND CSS 
+
 = NEXTJS 
+
 = WPF (XAML) 
 
 = FIGMA 
